@@ -14,7 +14,7 @@ let g:colors_name = "corporation_modified"
 "hi CTagsMember -- no settings --
 "hi CTagsGlobalConstant -- no settings --
 "hi Ignore -- no settings --
-hi Normal guifg=NONE guibg=#1f1b1f guisp=#1f1b1f gui=NONE ctermfg=NONE ctermbg=234 cterm=NONE
+hi Normal guifg=#dedede guibg=#241f24 guisp=#241f24 gui=NONE ctermfg=253 ctermbg=235 cterm=NONE
 "hi CTagsImport -- no settings --
 "hi CTagsGlobalVariable -- no settings --
 "hi EnumerationValue -- no settings --
