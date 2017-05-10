@@ -1,2 +1,2 @@
 # vsvim
-Visual Studio-style vim colorscheme
+Visual Studio style vim colorscheme.
