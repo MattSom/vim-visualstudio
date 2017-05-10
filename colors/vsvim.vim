@@ -54,7 +54,7 @@ hi Search guifg=#2d3d40 guibg=#f0f0f0 guisp=#f0f0f0 gui=NONE ctermfg=238 ctermbg
 hi Delimiter guifg=#af87d7 guibg=NONE guisp=NONE gui=NONE ctermfg=140 ctermbg=NONE cterm=NONE
 hi Statement guifg=#0088d7 guibg=NONE guisp=NONE gui=NONE ctermfg=32 ctermbg=NONE cterm=NONE
 hi SpellRare guifg=#aeaeb3 guibg=#192224 guisp=#192224 gui=underline ctermfg=249 ctermbg=235 cterm=underline
-hi Comment guifg=#178735 guibg=NONE guisp=NONE gui=italic ctermfg=28 ctermbg=NONE cterm=NONE
+hi Comment guifg=#2c9e2c guibg=NONE guisp=NONE gui=italic ctermfg=71 ctermbg=NONE cterm=NONE
 hi Character guifg=#acb1b3 guibg=NONE guisp=NONE gui=NONE ctermfg=249 ctermbg=NONE cterm=NONE
 hi Float guifg=#acb1b3 guibg=NONE guisp=NONE gui=NONE ctermfg=249 ctermbg=NONE cterm=NONE
 hi Number guifg=#acb1b3 guibg=NONE guisp=NONE gui=NONE ctermfg=249 ctermbg=NONE cterm=NONE
