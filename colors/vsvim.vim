@@ -46,7 +46,7 @@ hi SpecialChar guifg=#af87d7 guibg=NONE guisp=NONE gui=NONE ctermfg=140 ctermbg=
 hi Conditional guifg=#d75f87 guibg=NONE guisp=NONE gui=NONE ctermfg=168 ctermbg=NONE cterm=NONE
 hi StorageClass guifg=#637dad guibg=NONE guisp=NONE gui=bold ctermfg=67 ctermbg=NONE cterm=bold
 hi Todo guifg=#5be8a6 guibg=#585b69 guisp=#585b69 gui=NONE ctermfg=79 ctermbg=242 cterm=NONE
-hi Special guifg=#5be8a6 guibg=NONE guisp=NONE gui=NONE ctermfg=79 ctermbg=NONE cterm=NONE
+hi Special guifg=#87d7d7 guibg=NONE guisp=NONE gui=NONE ctermfg=116 ctermbg=NONE cterm=NONE
 hi LineNr guifg=#6da4ab guibg=NONE guisp=NONE gui=NONE ctermfg=73 ctermbg=NONE cterm=NONE
 hi StatusLine guifg=#466e75 guibg=#f5f5f5 guisp=#f5f5f5 gui=bold ctermfg=66 ctermbg=255 cterm=bold
 hi Label guifg=#af87d7 guibg=NONE guisp=NONE gui=bold ctermfg=140 ctermbg=NONE cterm=bold
@@ -69,7 +69,7 @@ hi DiffDelete guifg=NONE guibg=#192224 guisp=#192224 gui=NONE ctermfg=NONE cterm
 hi ModeMsg guifg=#b3b3b3 guibg=#192224 guisp=#192224 gui=bold ctermfg=249 ctermbg=235 cterm=bold
 hi CursorColumn guifg=NONE guibg=#222E30 guisp=#222E30 gui=NONE ctermfg=NONE ctermbg=236 cterm=NONE
 hi Define guifg=#af87d7 guibg=NONE guisp=NONE gui=NONE ctermfg=140 ctermbg=NONE cterm=NONE
-hi Function guifg=#5be8a6 guibg=NONE guisp=NONE gui=NONE ctermfg=79 ctermbg=NONE cterm=NONE
+hi Function guifg=#5fd7af guibg=NONE guisp=NONE gui=NONE ctermfg=79 ctermbg=NONE cterm=NONE
 hi FoldColumn guifg=#2d3d40 guibg=#A1A6A8 guisp=#A1A6A8 gui=italic ctermfg=238 ctermbg=248 cterm=NONE
 hi PreProc guifg=#87d7d7 guibg=NONE guisp=NONE gui=NONE ctermfg=116 ctermbg=NONE cterm=NONE
 hi Visual guifg=#2d3d40 guibg=#F9F9FF guisp=#F9F9FF gui=NONE ctermfg=238 ctermbg=189 cterm=NONE
@@ -78,7 +78,7 @@ hi SpellCap guifg=#aeaeb3 guibg=#192224 guisp=#192224 gui=underline ctermfg=249 
 hi VertSplit guifg=#2d3d40 guibg=#5E6C70 guisp=#5E6C70 gui=bold ctermfg=238 ctermbg=66 cterm=bold
 hi Exception guifg=#d75f87 guibg=NONE guisp=NONE gui=NONE ctermfg=168 ctermbg=NONE cterm=NONE
 hi Keyword guifg=#87d7d7 guibg=NONE guisp=NONE gui=NONE ctermfg=116 ctermbg=NONE cterm=NONE
-hi Type guifg=#87d7d7 guibg=NONE guisp=NONE gui=bold ctermfg=116 ctermbg=NONE cterm=bold
+hi Type guifg=#5fd7af guibg=NONE guisp=NONE gui=bold ctermfg=79 ctermbg=NONE cterm=bold
 hi DiffChange guifg=#d1567f guibg=#ded1d2 guisp=#ded1d2 gui=NONE ctermfg=168 ctermbg=253 cterm=NONE
 hi Cursor guifg=#2d3d40 guibg=#F9F9F9 guisp=#F9F9F9 gui=NONE ctermfg=238 ctermbg=15 cterm=NONE
 hi SpellLocal guifg=#aeaeb3 guibg=#192224 guisp=#192224 gui=underline ctermfg=249 ctermbg=235 cterm=underline
