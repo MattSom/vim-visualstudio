@@ -77,7 +77,7 @@ hi MoreMsg guifg=#af87d7 guibg=NONE guisp=NONE gui=bold ctermfg=140 ctermbg=NONE
 hi SpellCap guifg=#aeaeb3 guibg=#192224 guisp=#192224 gui=underline ctermfg=249 ctermbg=235 cterm=underline
 hi VertSplit guifg=#2d3d40 guibg=#5E6C70 guisp=#5E6C70 gui=bold ctermfg=238 ctermbg=66 cterm=bold
 hi Exception guifg=#d75f87 guibg=NONE guisp=NONE gui=NONE ctermfg=168 ctermbg=NONE cterm=NONE
-hi Keyword guifg=#5be8a6 guibg=NONE guisp=NONE gui=bold ctermfg=79 ctermbg=NONE cterm=bold
+hi Keyword guifg=#87d7d7 guibg=NONE guisp=NONE gui=NONE ctermfg=116 ctermbg=NONE cterm=NONE
 hi Type guifg=#5be8a6 guibg=NONE guisp=NONE gui=bold ctermfg=79 ctermbg=NONE cterm=bold
 hi DiffChange guifg=#d1567f guibg=#ded1d2 guisp=#ded1d2 gui=NONE ctermfg=168 ctermbg=253 cterm=NONE
 hi Cursor guifg=#2d3d40 guibg=#F9F9F9 guisp=#F9F9F9 gui=NONE ctermfg=238 ctermbg=15 cterm=NONE
