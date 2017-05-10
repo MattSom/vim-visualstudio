@@ -43,7 +43,7 @@ hi Debug guifg=#af87d7 guibg=NONE guisp=NONE gui=NONE ctermfg=140 ctermbg=NONE c
 hi PMenuSbar guifg=NONE guibg=#848688 guisp=#848688 gui=NONE ctermfg=NONE ctermbg=102 cterm=NONE
 hi Identifier guifg=#9b7ccf guibg=NONE guisp=NONE gui=NONE ctermfg=140 ctermbg=NONE cterm=NONE
 hi SpecialChar guifg=#af87d7 guibg=NONE guisp=NONE gui=NONE ctermfg=140 ctermbg=NONE cterm=NONE
-hi Conditional guifg=#d75f87 guibg=NONE guisp=NONE gui=bold ctermfg=168 ctermbg=NONE cterm=bold
+hi Conditional guifg=#d75f87 guibg=NONE guisp=NONE gui=NONE ctermfg=168 ctermbg=NONE cterm=NONE
 hi StorageClass guifg=#637dad guibg=NONE guisp=NONE gui=bold ctermfg=67 ctermbg=NONE cterm=bold
 hi Todo guifg=#5be8a6 guibg=#585b69 guisp=#585b69 gui=NONE ctermfg=79 ctermbg=242 cterm=NONE
 hi Special guifg=#5be8a6 guibg=NONE guisp=NONE gui=NONE ctermfg=79 ctermbg=NONE cterm=NONE
@@ -87,7 +87,7 @@ hi PMenu guifg=#2d3d40 guibg=#5E6C70 guisp=#5E6C70 gui=NONE ctermfg=238 ctermbg=
 hi SpecialKey guifg=#76878c guibg=NONE guisp=NONE gui=italic ctermfg=66 ctermbg=NONE cterm=NONE
 hi Constant guifg=#acb1b3 guibg=NONE guisp=NONE gui=NONE ctermfg=249 ctermbg=NONE cterm=NONE
 hi Tag guifg=#af87d7 guibg=NONE guisp=NONE gui=NONE ctermfg=140 ctermbg=NONE cterm=NONE
-hi String guifg=#da7daa guibg=NONE guisp=NONE gui=NONE ctermfg=175 ctermbg=NONE cterm=NONE
+hi String guifg=#f5d6a1 guibg=NONE guisp=NONE gui=NONE ctermfg=223 ctermbg=NONE cterm=NONE
 hi PMenuThumb guifg=NONE guibg=#a4a6a8 guisp=#a4a6a8 gui=NONE ctermfg=NONE ctermbg=248 cterm=NONE
 hi MatchParen guifg=#af87d7 guibg=NONE guisp=NONE gui=bold ctermfg=140 ctermbg=NONE cterm=bold
 hi Repeat guifg=#ce3e84 guibg=NONE guisp=NONE gui=bold ctermfg=168 ctermbg=NONE cterm=bold
