@@ -43,7 +43,7 @@ hi Debug guifg=#af87d7 guibg=NONE guisp=NONE gui=NONE ctermfg=140 ctermbg=NONE c
 hi PMenuSbar guifg=NONE guibg=#848688 guisp=#848688 gui=NONE ctermfg=NONE ctermbg=102 cterm=NONE
 hi Identifier guifg=#9b7ccf guibg=NONE guisp=NONE gui=NONE ctermfg=140 ctermbg=NONE cterm=NONE
 hi SpecialChar guifg=#af87d7 guibg=NONE guisp=NONE gui=NONE ctermfg=140 ctermbg=NONE cterm=NONE
-hi Conditional guifg=#ce3e84 guibg=NONE guisp=NONE gui=bold ctermfg=168 ctermbg=NONE cterm=bold
+hi Conditional guifg=#d75f87 guibg=NONE guisp=NONE gui=bold ctermfg=168 ctermbg=NONE cterm=bold
 hi StorageClass guifg=#637dad guibg=NONE guisp=NONE gui=bold ctermfg=67 ctermbg=NONE cterm=bold
 hi Todo guifg=#5be8a6 guibg=#585b69 guisp=#585b69 gui=NONE ctermfg=79 ctermbg=242 cterm=NONE
 hi Special guifg=#5be8a6 guibg=NONE guisp=NONE gui=NONE ctermfg=79 ctermbg=NONE cterm=NONE
@@ -76,7 +76,7 @@ hi Visual guifg=#2d3d40 guibg=#F9F9FF guisp=#F9F9FF gui=NONE ctermfg=238 ctermbg
 hi MoreMsg guifg=#af87d7 guibg=NONE guisp=NONE gui=bold ctermfg=140 ctermbg=NONE cterm=bold
 hi SpellCap guifg=#aeaeb3 guibg=#192224 guisp=#192224 gui=underline ctermfg=249 ctermbg=235 cterm=underline
 hi VertSplit guifg=#2d3d40 guibg=#5E6C70 guisp=#5E6C70 gui=bold ctermfg=238 ctermbg=66 cterm=bold
-hi Exception guifg=#007ab3 guibg=NONE guisp=NONE gui=bold ctermfg=31 ctermbg=NONE cterm=bold
+hi Exception guifg=#d75f87 guibg=NONE guisp=NONE gui=bold ctermfg=168 ctermbg=NONE cterm=bold
 hi Keyword guifg=#5be8a6 guibg=NONE guisp=NONE gui=bold ctermfg=79 ctermbg=NONE cterm=bold
 hi Type guifg=#5be8a6 guibg=NONE guisp=NONE gui=bold ctermfg=79 ctermbg=NONE cterm=bold
 hi DiffChange guifg=#d1567f guibg=#ded1d2 guisp=#ded1d2 gui=NONE ctermfg=168 ctermbg=253 cterm=NONE
