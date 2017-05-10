@@ -71,7 +71,7 @@ hi Define guifg=#af87d7 guibg=NONE guisp=NONE gui=NONE ctermfg=140 ctermbg=NONE 
 hi Function guifg=#5fd7af guibg=NONE guisp=NONE gui=NONE ctermfg=79 ctermbg=NONE cterm=NONE
 hi FoldColumn guifg=#2d3d40 guibg=#A1A6A8 guisp=#A1A6A8 gui=italic ctermfg=238 ctermbg=248 cterm=NONE
 hi PreProc guifg=#87d7d7 guibg=NONE guisp=NONE gui=NONE ctermfg=116 ctermbg=NONE cterm=NONE
-hi Visual guifg=#2d3d40 guibg=#F9F9FF guisp=#F9F9FF gui=NONE ctermfg=238 ctermbg=189 cterm=NONE
+hi Visual guifg=#2d3d40 guibg=#e0e0e0 guisp=#e0e0e0 gui=NONE ctermfg=238 ctermbg=254 cterm=NONE
 hi MoreMsg guifg=#af87d7 guibg=NONE guisp=NONE gui=bold ctermfg=140 ctermbg=NONE cterm=bold
 hi SpellCap guifg=#aeaeb3 guibg=#192224 guisp=#192224 gui=underline ctermfg=249 ctermbg=235 cterm=underline
 hi VertSplit guifg=#2d3d40 guibg=#5E6C70 guisp=#5E6C70 gui=bold ctermfg=238 ctermbg=66 cterm=bold
