@@ -1,5 +1,5 @@
 # vsvim
-A dark Visual Studio look-alike color scheme for vim editor. Our eternal favorite.
+A Visual Studio Dark look-alike color scheme for vim editor. Our eternal favorite.
 
 ### Installation
 
